@@ -1,4 +1,4 @@
-# Perceiving-and-Modeling-Density-for-Image-Dehazing
+# Perceiving-and-Modeling-Density-for-Image-Dehazing ECCV'22 Oral
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/perceiving-and-modeling-density-is-all-you/image-dehazing-on-sots-indoor)](https://paperswithcode.com/sota/image-dehazing-on-sots-indoor?p=perceiving-and-modeling-density-is-all-you)
 
