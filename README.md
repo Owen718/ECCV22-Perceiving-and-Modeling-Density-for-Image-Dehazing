@@ -4,7 +4,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/perceiving-and-modeling-density-is-all-you/image-dehazing-on-haze4k)](https://paperswithcode.com/sota/image-dehazing-on-haze4k?p=perceiving-and-modeling-density-is-all-you)
 
-The official repository of "Perceiving and Modeling Density is All You Need for Image Dehazing". [arxiv link](https://arxiv.org/abs/2111.09733)
+The official repository of "Perceiving and Modeling Density for Image Dehazing". [arxiv link](https://arxiv.org/abs/2111.09733)
 
 ## Noting!
 We have already updated the latest manuscript. Please see **ECCV22_PMNet.pdf** in this repository.
