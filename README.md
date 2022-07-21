@@ -6,6 +6,9 @@
 
 The official repository of "Perceiving and Modeling Density is All You Need for Image Dehazing". [arxiv link](https://arxiv.org/abs/2111.09733)
 
+## Noting!
+We have already updated the latest manuscript. Please visit Google Drive to get it.
+
 The code will be released soon.
 
 
